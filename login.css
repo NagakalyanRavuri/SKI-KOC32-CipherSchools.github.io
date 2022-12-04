@@ -1,0 +1,15 @@
+.login{
+    text-align: center;
+    
+}
+
+.go{
+    text-align: center;
+}
+
+
+.body{
+    background-image: url(login.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
